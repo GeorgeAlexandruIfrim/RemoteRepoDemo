@@ -3,6 +3,8 @@ Second Line 2
 Second Line 3
 Second Line 4
 Second Line 5
+Second Line 6 - updated in git_1
+Second line 7 - updated in git_1
 Second Line 6 - updated
 Second Line 7 - updated
 Second Line 8
