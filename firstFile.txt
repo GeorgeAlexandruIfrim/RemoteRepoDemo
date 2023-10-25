@@ -1,5 +1,5 @@
-Line 1
-Line 2
+Line 1 - modified - step 18 - folder 1
+Line 2 - modified - step 18 - folder 1
 Line 3
 Line 4 - updated - step 7
 Line 5 - updated - step 7
